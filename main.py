@@ -1,1 +1,1 @@
-print("idk")
+print("hello world")
